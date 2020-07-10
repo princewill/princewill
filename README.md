@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning ...
 
-![alt text](https://tenor.com/bjDmu.gif)
+![alt text](https://tenor.com/bgpPo.gif)
 <!--
 **princewill/princewill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
