@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ...
-
 ![alt text](https://powerlanguage.net/wp-content/uploads/2019/09/welcome-1024x441.jpg)
+
+- 🌱 I’m still a learner in the industry
+- 🔭 I’m currently working on MyLibrary
 <!--
 **princewill/princewill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
